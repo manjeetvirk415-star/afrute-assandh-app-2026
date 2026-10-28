@@ -1,0 +1,6 @@
+{
+  "name": "Afrute Assandh",
+  "description": "Multi-Tenant SaaS fruit app for Assandh with Owner dashboard, Shopkeeper portal, and Customer storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
